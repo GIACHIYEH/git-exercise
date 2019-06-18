@@ -4,9 +4,10 @@ public class Demo {
 	
 	public static void main(String[] args) {
 		System.out.println("這是git測試");
-		System.out.println("這是git測試");
-		System.out.println("這是git測試");
-		System.out.println("這是git測試");
+		
+		for (int i = 0; i < 100; i++) {
+			System.out.println(i);
+		}
 	}
 
 }
