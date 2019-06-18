@@ -6,7 +6,7 @@ public class Demo {
 		System.out.println("這是git測試");
 		
 		for (int i = 0; i < 100; i++) {
-			System.out.println(i);
+			System.out.println(i+2);
 		}
 	}
 
