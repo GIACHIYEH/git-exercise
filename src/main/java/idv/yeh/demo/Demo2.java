@@ -13,10 +13,10 @@ public class Demo2 {
 
 		List<String> list = new ArrayList<String>();
 		list.add(a);
-		list.add(c);
 		list.add(b);
-		list.add(e);
+		list.add(c);
 		list.add(d);
+		list.add(e);
 
 		System.out.println(list);
 	}
